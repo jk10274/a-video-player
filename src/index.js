@@ -20,12 +20,12 @@ var player = videojs('my-player', {
   
   
   // Now I am setting the text as you needed.
-  myButtonDom.innerHTML = "Hello";
+  /* myButtonDom.innerHTML = "Hello";
   
   myButtonDom.onclick = function(){
     alert("Redirecting");
     window.location.href = "https://www.google.com"
-  }  
+  }   */
 
   /* var vjsControl = document.getElementsByClassName("vjs-progress-control vjs-control");
   var circle = document.getElementsByClassName("vjs-icon-circle:before vjs-seek-to-live-control vjs-icon-placeholder:before video-js vjs-volume-level:before video-js vjs-play-progress:before");
