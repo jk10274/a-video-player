@@ -967,7 +967,7 @@ div.vjs-control-bar > div.vjs-progress-control.vjs-control > div > div.vjs-play-
 
 .overlay {
   background-color: rgb(165, 110, 110);
-  width: 100%;
+  width: 960px;
   height: 100%;
   position: absolute;
   top: 0;
