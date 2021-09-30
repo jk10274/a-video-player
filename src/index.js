@@ -1,4 +1,4 @@
-var player = videojs('my-player', {
+var player = videojs('a-video-player', {
     controls: true,
     autoplay: false,
     preload: 'auto'
